@@ -19,6 +19,9 @@ body{
 	font-size: 36px;
 	padding:5px;
 } 
+.gotchaday{
+	width:350px;
+}
 header {
 	background-image: url("./img/zoey_banner.jpg");
 	background-size: cover;
