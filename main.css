@@ -23,7 +23,8 @@ body{
 	width:350px;
 }
 header {
-	background-image: url("./img/zoey_banner.jpg");
+	background-image: url("https://i.imgur.com/sai2HKw.jpg");
+	background-position-y: center;
 	background-size: cover;
 	height: 475px;
 	border: 10px black solid;
