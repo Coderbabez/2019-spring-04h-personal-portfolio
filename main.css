@@ -8,3 +8,87 @@ Requirements:
   1. Center an element
   2. Create columns in one section
 */
+body{ 
+	font-family: Arial, sans-serif;
+	padding:5px;
+	font-size:18px;
+
+}
+#banner_hero h2{
+	color: black;
+	font-size: 36px;
+	padding:5px;
+} 
+.gotchaday{
+	width:350px;
+}
+header {
+	background-image: url("https://i.imgur.com/sai2HKw.jpg");
+	background-position-y: center;
+	background-size: cover;
+	height: 475px;
+	border: 10px black solid;
+	padding:5px;
+}
+header h1{
+	color:white;
+}
+header h3{
+	color:white;
+}
+/* NAV BAR */
+nav ul{
+    border-left: 20px #2290FF solid;
+    list-style: none;
+    background: #52A8FF;
+    margin-top: 0px;
+    padding: 0px;
+    display: flex;  
+}
+nav li{
+    padding: 15px;
+    color: white;
+    font-size: 28px;
+}
+li a{
+	text-decoration: none;
+	color:white;
+}
+li a:visited{
+	color:white;
+}
+li a:hover{
+	color:black;
+}
+
+.about{
+	background-color:#ACD5FE;
+	padding:20px;
+	border: 1px #52A8FF solid;
+	margin-bottom: 15px;
+}
+.experience{
+	background-color:#ACD5FE;
+	padding:20px;
+	border: 1px #52A8FF solid;
+	margin-bottom: 15px;
+}
+.contact{
+	background-color:#ACD5FE;
+	padding:20px;
+	border: 1px #52A8FF solid;
+	margin-bottom: 15px;
+}
+a{
+	
+}
+a:visited{
+	color: black;
+}
+.about img{
+	border: 5px white solid;;
+}
+
+.top{
+  font-size:15px;
+}
